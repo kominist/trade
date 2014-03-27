@@ -1,7 +1,15 @@
-Blog
-
+Trade
 ----
 
-To install : ``composer install``
+Un site d'échange d'objets  pour les komitiens.
 
-Blog made with &hearts; and [Silex](http://silex.sensiolabs.com)
+Installation
+----
+
+``make test`` dans un terminal
+
+
+
+Fabriqué avec [Silex](http://silex.sensiolabs.com) et
+[Illuminate](http://github.com/illuminate/database)
+
