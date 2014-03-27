@@ -1,0 +1,8 @@
+vendor/
+cache/profiler/*
+!cache/profiler/.gitkeep
+logs/*
+!logs/.gitkeep
+db/db.sqlite
+composer.lock
+migrations/.migrations.log

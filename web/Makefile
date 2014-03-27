@@ -1,6 +1,6 @@
 test:
-	bin/behat
-	bin/phpunit
+	vendor/bin/behat
+	vendor/bin/phpunit
 
 install:
 	composer self-update
